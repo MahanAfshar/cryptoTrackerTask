@@ -1,8 +1,34 @@
-# React + Vite
+# Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![demo]()](#)
 
-Currently, two official plugins are available:
+## Crypto tracker
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **[Review online](#)**
+
+## Description
+
+It is a english-language project for a exchange that sells cryptocurrency and has a beautiful user interface and two routes that include home and chart.
+
+## Features
+
+* Fully responsive for mobile, tablet and laptop.
+* Beautiful user interface.
+* Toggle theme.
+* Cryptocurrency search.
+* Cryptocurrency chart.
+
+## Technologies
+
+* React.js
+* Javascript
+* Tailwind
+* Html
+
+## Contact me
+
+### **[Email](mailto:mahan.ghaffarzadeh.afshar@gmail.com)**
+
+### **[Linkedin](https://ir.linkedin.com/in/mahan-afshar-308aa2321?trk=people-guest_people_search-card)**
+
+### **[Telegram](https://t.me/mahanafshaar)**

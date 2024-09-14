@@ -1,15 +1,16 @@
-import React, { useState } from 'react'
-import Header from './components/Header'
-import CoinsList from './components/CoinsList'
+import { Route, Routes } from 'react-router-dom';
+import Chart from './pages/Chart';
+import Home from './pages/Home';
+import SearchProvider from './context/SearchContext';
 
 const App = () => {
-  const [search, setSearch] = useState('');
-
   return (
-    <>
-      <Header setSearch={setSearch}/>
-      <CoinsList search={search}/>
-    </>
+    <SearchProvider>
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/:id' element={<Chart />} />
+      </Routes>
+    </SearchProvider>
   )
 }
 
