@@ -1,10 +1,10 @@
 # Demo
 
-[![demo]()](#)
+[![demo](./src/assets/gifs/demo.gif)](https://mahanafshar.github.io/cryptoTrackerTask/)
 
 ## Crypto tracker
 
-### **[Review online](#)**
+### **[Review online](https://mahanafshar.github.io/cryptoTrackerTask/)**
 
 ## Description
 
